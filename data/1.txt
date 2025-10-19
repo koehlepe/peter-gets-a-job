@@ -1,0 +1,81 @@
+Job Title: Software Engineer - Data Workflows
+Company: Woven by Toyota
+Source: LinkedIn
+Job Description: 
+About the job
+
+Woven by Toyota is enabling Toyota’s once-in-a-century transformation into a mobility company. Inspired by a legacy of innovating for the benefit of others, our mission is to challenge the current state of mobility through human-centric innovation — expanding what “mobility” means and how it serves society.
+
+Our work centers on four pillars: AD/ADAS, our autonomous driving and advanced driver assist technologies; Arene, our software development platform for software-defined vehicles; Woven City, a test course for mobility; and Cloud & AI, the digital infrastructure powering our collaborative foundation. Business-critical functions empower these teams to execute, and together, we’re working toward one bold goal: a world with zero accidents and enhanced well-being for all.
+
+TEAM
+
+The ADAS Simulation and Validation Tools group accelerates the development of advanced driver assistance systems (ADAS) and autonomous driving (L2–L4) software by building scalable simulation platforms, cloud infrastructure, and automated testing pipelines. Our tools enable global engineering teams to validate complex driving systems efficiently and with confidence.
+
+We focus on large-scale data workflows that ingest, transform, and correlate real-world and simulated driving data. This data powers critical simulation experiments and analytics tools used to improve driving system performance and guide strategic decisions. Our team sits at the intersection of simulation, cloud engineering, and data analysis—solving challenges in automation, scalability, and system validation to support cutting-edge vehicle programs.
+
+Who Are We Looking For
+
+We are seeking an experienced backend software engineer with a strong emphasis on data engineering and data analytics. The ideal candidate has experience with large-scale data ETL pipelines and schema design, web services and APIs, cloud infrastructure, and test automation. They will lead the design and deployment of cloud-native workflows for large-scale ADAS simulation and evaluation, including analytics applications, test orchestration, and traceability systems. By championing best practices, collaborating with cross-functional teams, and mentoring developers, you will play a key role in building our mission-critical AD/ADAS tools.
+
+RESPONSIBILITIES:
+
+Backend and Data Software Engineering
+
+    Build and optimize end-to-end data workflows from collection to user-facing tools
+    Create efficient data models and automation pipelines for AD/ADAS systems
+    Develop robust APIs to support data analytics applicationsImplement comprehensive testing strategies to ensure application reliability
+    Communicate technical concepts and data findings effectively to non-technical team members and leadership
+
+Teamwork
+
+    Collaborate closely with the Product team and internal customers to optimize workflows and user experience. 
+    Work with other engineers to promote best practices, conduct code reviews, and ensure consistency and quality across the codebase
+
+Ownership
+
+    Write clear technical design documents and system documentation. 
+    Deliver features through the full software lifecycle including requirements gathering, design, implementation, testing, documentation, release, and maintenance. 
+
+Experience
+
+    Bachelor's or Master's degree in Computer Science, Engineering, or a related field. 
+    3+ years of professional software development experience in backend web services and data pipelines. 
+
+Technical Expertise
+
+    Experience with Python in a web and data context
+    Experience with SQL and data schema design.Experience with data ingestion and ETL pipelines. 
+    Familiarity with NoSQL database systems such as DynamoDB. 
+    At least 1 year experience with cloud computing (AWS, Microsoft Azure, or Google Cloud)
+
+Soft Skills
+
+    Strong problem-solving and debugging capabilities. 
+    Strong written and verbal communication skills, including technical designs and documentation. 
+
+Preferred Qualifications
+
+    Experience with microservice and serverless cloud architectures. 
+    Experience with performance optimization techniques in various database systems. 
+    Experience with infrastructure as code (e.g., Terraform). 
+
+Interested candidates are encouraged to submit their application with a current resume and a portfolio/link to recent projects.
+
+What We Offer
+
+We are committed to creating a modern work environment that supports our employees and their loved ones. We offer many options of the best programs to allow you to do your most meaningful work and to help you shape the future of mobility.
+
+・Excellent health, wellness, dental and vision coverage
+
+・A rewarding 401k program
+
+・Flexible vacation policy
+
+・Family planning and care benefits
+
+Our Commitment
+
+・We are an equal opportunity employer and value diversity.
+
+・Any information we receive from you will be used only in the hiring and onboarding process. Please see our privacy notice for more details.
